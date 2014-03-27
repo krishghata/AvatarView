@@ -1,0 +1,8 @@
+<resources>
+   <declare-styleable name="Avatar">
+       <attr name="face" format="integer" />
+       <attr name="hair" format="integer" />
+       <attr name="lips" format="integer" />
+       <attr name="eyes" format="integer" />
+   </declare-styleable>
+</resources>

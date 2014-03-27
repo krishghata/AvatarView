@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AvatarTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="hair_prompt">Choose a hair style</string>
+    <string-array name="hair_arrays">
+        <item>Style 1</item>
+       	<item>Style 2</item>
+       	<item>Style 3</item>
+       	<item>Style 4</item>
+       	<item>Style 5</item>
+    </string-array>
+    
+    <string name="eyes_prompt">Choose a eyes style</string>
+    <string-array name="eyes_arrays">
+        <item>Style 1</item>
+       	<item>Style 2</item>
+       	<item>Style 3</item>
+       	<item>Style 4</item>
+       	<item>Style 5</item>
+    </string-array>
+    
+    <string name="lips_prompt">Choose a lips style</string>
+    <string-array name="lips_arrays">
+        <item>Style 1</item>
+       	<item>Style 2</item>
+       	<item>Style 3</item>
+       	<item>Style 4</item>
+       	<item>Style 5</item>
+    </string-array>
+
+</resources>
